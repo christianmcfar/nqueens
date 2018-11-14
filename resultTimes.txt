@@ -1,3 +1,0 @@
-Steps: 60
-Initialization Time: 0.021
-Total Time: 0.021
