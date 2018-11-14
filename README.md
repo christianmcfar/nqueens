@@ -3,6 +3,7 @@
 ###### Artificial Intelligence - Final Project
 
 Solves up to n = 500,000 in reasonable time, requires further optimization for larger values of n.
+Randomly generated boards also available in preprocessing.
 
 
 ###### Input:
