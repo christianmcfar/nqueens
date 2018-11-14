@@ -1,4 +1,4 @@
-# nQueens Problem
+# N-Queens Problem
 
 ###### Artificial Intelligence - Final Project
 
